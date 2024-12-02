@@ -45,11 +45,11 @@ The Weather Data ETL Pipeline automates the daily process of extracting, transfo
    - Launch your Airflow instance.
    - Trigger the `weather_etl_pipeline` DAG to start the ETL process.
 
-##Conclusion
+## Conclusion
 
 This **Weather Data ETL Pipeline** demonstrates expertise in building scalable, automated data pipelines using modern tools like Apache Airflow, PostgreSQL, and Docker. It highlights skills in API integration, data processing, and analytics, making it an excellent addition to any data portfolio.
 
-##Acknowledgments
+## Acknowledgments
 
 - Thanks to the Open-Meteo API developers for providing weather data.
 - Inspired by the need for efficient data processing in the modern, data-driven landscape.
